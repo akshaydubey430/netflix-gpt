@@ -20,6 +20,7 @@ If you are developing a production application, we recommend using TypeScript an
 --movie subscription
 --movie suggestion
 --movie list +N
+##Formic is a library for form validation
 
 -netflixgpt
 --search bar
